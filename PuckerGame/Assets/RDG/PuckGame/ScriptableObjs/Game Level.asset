@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81ffc09c0504dcb820652a97c6c51bb, type: 3}
+  m_Name: Game Level
+  m_EditorClassIdentifier: 
+  puckPrefab: {fileID: 5524746862134459303, guid: 806e3549e54cd984cbe623899d89a550, type: 3}
+  targetPrefab: {fileID: 4688933697580485065, guid: 2aacd8ffad8156646a1920a6e7cb0ddc, type: 3}
+  wallPrefab: {fileID: 7511300700529313919, guid: 7dac59ae6f5f3b14598d208552ab4902, type: 3}
+  floorPrefab: {fileID: 2933099694923254466, guid: 9d7397bfb5fa675458266b1a512b6bbc, type: 3}
+  crossBackgroundPrefab: {fileID: 7717714044651173328, guid: 3680a38c302f8e74dbd191e7839f98da, type: 3}
